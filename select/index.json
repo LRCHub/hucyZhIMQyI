@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "100",
+  "base_artist": "Travis Chobit",
+  "createdAt": "2025-12-01T08:07:01.374583Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "100% Dundee",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/01_100__Dundee_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "100% Dundee",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/02_100__Dundee_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "0 To 100 / The Catch Up",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_0_To_100___The_Catch_Up_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On Some Real Shit (100,000 Bar",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/04_On_Some_Real_Shit_(100,000_Bar_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "100 Missed Calls",
+      "artist": "Yung Mal",
+      "has_synced": true,
+      "path": "select/05_100_Missed_Calls_Yung_Mal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "100 Shells",
+      "artist": "Yung Bans feat. YNW Melly",
+      "has_synced": true,
+      "path": "select/06_100_Shells_Yung_Bans_feat._YNW_Melly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "100 Shells (feat. YNW Melly)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/07_100_Shells_(feat._YNW_Melly)_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "100 Rounds",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/08_100_Rounds_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "100 Rounds (Prod. by TGM)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/09_100_Rounds_(Prod._by_TGM)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heart Swells / 100-1",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/10_Heart_Swells___100-1_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heart Swells \u0000 100-1",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/11_Heart_Swells_\u0000_100-1_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "100%",
+      "artist": "MIKE feat. King Carter",
+      "has_synced": false,
+      "path": "select/12_100_MIKE_feat._King_Carter.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "100% (feat. King Carter)",
+      "artist": "MIKE",
+      "has_synced": false,
+      "path": "select/13_100__(feat._King_Carter)_MIKE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "100,000 Fireflies",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/14_100,000_Fireflies_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "100,000 Fireflies",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/15_100,000_Fireflies_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Play Date (100 gecs Remix)",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/16_Play_Date_(100_gecs_Remix)_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "100 Miles And Runnin'",
+      "artist": "N.W.A.",
+      "has_synced": true,
+      "path": "select/17_100_Miles_And_Runnin'_N.W.A..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "100 Clip",
+      "artist": "Sharc feat. Pi’erre Bourne",
+      "has_synced": false,
+      "path": "select/18_100_Clip_Sharc_feat._Pi’erre_Bourne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "99/100 騙しの哲",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_99_100_騙しの哲_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "1/100",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_02_1_100_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "100年先まで愛します。",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_03_100年先まで愛します。_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "1000万回のキス",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_04_1000万回のキス_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "100万回の「I love you」",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_05_100万回の「I_love_you」_UVERworld.txt"
+    }
+  ]
+}
